@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- Name: **Reidho Satria** / **レイドー・サトリア**
+- Name: **Elystria**
 
 - Residing in: **South Sumatra, Indonesia**
 
