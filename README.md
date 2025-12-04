@@ -27,7 +27,7 @@
 <br/>
   
 - 📗 [***Lotus-Framework (still private)***](https://github.com/elystriaa/Lotus-Framework) <br/>
-  A Plants Vs. Zombies 2 engine made in Godot 4.5 that works with the original game files.
+  A Plants Vs. Zombies 2 framework made in Godot 4.5 that works with the original game files.
 <img src="./img/tunjuk.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
