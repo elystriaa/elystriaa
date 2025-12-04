@@ -11,7 +11,7 @@
 
 - Studying Multiplatform-Software
 
-- Proficient in: **GNU/Linux**, **Krita**, **Photoshop**, **Figma**, **Clip Studio Paint**.
+- Proficient in: **GNU/Linux**, **Godot**, **Krita**, **Photoshop**, **Figma**, **Clip Studio Paint**.
 
 - Skilled in: **C#**, **CF2.5+**, **GDScript**.
 
