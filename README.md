@@ -43,7 +43,7 @@
 <br/><br/>
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://vgen.co/elystria"><img src="https://img.shields.io/badge/COMMISSIONS-DAC6C2?style=for-the-badge"/> <a href="https://x.com/elystria_"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elystriaa/elystriaa/main/img/flamescion.gif" width="95%" />
 </p>
-
-<img src="https://i.imgur.com/2Y6l6jQ.gif" width="100%" style="border-radius: 8px; margin-top: 10px;" />
 </div>
