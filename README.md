@@ -43,7 +43,9 @@
 <br/><br/>
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://vgen.co/elystria"><img src="https://img.shields.io/badge/COMMISSIONS-DAC6C2?style=for-the-badge"/> <a href="https://x.com/elystria_"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elystriaa/elystriaa/main/img/kianacolamwhehe.png" width="95%" />
-</p>
+  <video width="95%" autoplay loop muted playsinline 
+         style="border-radius: 12px; border: 2px solid #FF8C00; margin: 10px 0;">
+    <source src="https://i.imgur.com/2Y6l6jQ.mp4" type="video/mp4">
+    <img src="https://i.imgur.com/2Y6l6jQ.gif" alt="GIF Fallback" width="95%" />
+  </video>
 </div>
