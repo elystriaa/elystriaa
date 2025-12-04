@@ -2,7 +2,7 @@
 <div>  
 <img width="337" src="./img/daamnkiana.png" align="right" />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="488" />
+<img src="./img/aboutme.png" width="488" />
 <br/>
 <br/>
 <br/>
@@ -22,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elystriaa&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align="right" />
 <br/>
 <br/>
-<img src="./img/Repo-elaina.png" width="488" />
+<img src="./img/repositories.png" width="488" />
 <br/>
 <br/>
   
@@ -31,7 +31,7 @@
 
 <img src="./img/kianacolamwhehe.png" width="270" align="right" />
 <br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
+<img src="./img/banner.png" width="500" /><br/>
 <sub>“We're connected by this sword. It will burn up the darkness to make way for light!” – Kiana Kaslana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : </sub>
 <br/>
 
