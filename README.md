@@ -52,5 +52,5 @@
 </p>
 <br/>
 
-<img src="https://i.imgur.com/2Y6l6jQ.gif" width="100%" style="border-radius: 8px; border: 2px solid #FF8C00;" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload-os-bbs.hoyolab.com%2Fupload%2F2022%2F05%2F03%2F12645320%2F4104aa178ef8dedf13c863764f86527b_2048452847123489238.jpg&f=1&nofb=1&ipt=731cd4d985c8625ef3c2bf764d781cbb783792ba3d49b3e86359c5f0e92356a4" width="100%" style="border-radius: 8px; border: 2px solid #FF8C00;" />
 </div>
