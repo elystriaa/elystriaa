@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 <br/><br/>
+<h3 align="center> ✨ Social Media</h3>
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://vgen.co/elystria"><img src="https://img.shields.io/badge/COMMISSIONS-DAC6C2?style=for-the-badge"/> <a href="https://x.com/elystria_"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/> </a> <img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/>
 </div>
