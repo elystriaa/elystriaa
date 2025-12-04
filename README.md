@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5900,50:FF7300,100:FF8C00&height=200&section=header&text=ELYSTRIA%20%E2%9C%A8%F0%9F%A7%A1&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Dev%20%7C%20Illustrator%2FGraphic%20Design%20%7C%20Writer&descSize=16&descAlignY=55" width="100%"/>
 <div>  
-<img width="337" src="./img/senyum.png" align=right />
+<img width="337" src="./img/daamnkiana.png" align=right />
 <br/>
 <img src="./img/AboutMe-elaina.png" width="488" />
 <br/>
@@ -28,7 +28,7 @@
   
 - 📗 [***Lotus-Framework (still private)***](https://github.com/elystriaa/Lotus-Framework) <br/>
   A Plants Vs. Zombies 2 framework made in Godot 4.5 that works with the original game files.
-<img src="./img/tunjuk.png" width="270" align="right" />
+<img src="./img/kianacolamwhehe.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
 <sub>“We're connected by this sword. It will burn up the darkness to make way for light!” – Kiana Kaslana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : </sub>
